@@ -1,0 +1,4 @@
+Bidirectional Encoder Bleu Score: 0.1545599524936861 
+Bilinear Attention Bleu Score: 0.1266480359449722
+Dot Attention Bleu Score: 0.13089878269010768
+Simple Decoder Bleu Score: 0.11319119564713187
